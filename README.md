@@ -1,11 +1,7 @@
-# To-do list en React
+# Modèle
 
-On a déjà créé une to-do list en Vanilla JS.  
-Voyons ce que ça donne, en React cette fois-ci :smiley:
+## Installation
 
-## Instructions
-
-Refaire la to-do list du premier challenge !  
-Même design, mêmes fonctionnalités, méthode différente.
-
-:muscle:
+- Installer les dépendances : `yarn`
+- Lancer le serveur : `yarn start`
+- Dans le navigateur : `http://localhost:3333`
